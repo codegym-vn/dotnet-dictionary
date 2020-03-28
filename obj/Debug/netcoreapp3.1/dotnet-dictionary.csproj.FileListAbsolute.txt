@@ -1,0 +1,10 @@
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/bin/Debug/netcoreapp3.1/dotnet-dictionary.deps.json
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/bin/Debug/netcoreapp3.1/dotnet-dictionary.runtimeconfig.json
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/bin/Debug/netcoreapp3.1/dotnet-dictionary.runtimeconfig.dev.json
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/bin/Debug/netcoreapp3.1/dotnet-dictionary.dll
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/bin/Debug/netcoreapp3.1/dotnet-dictionary.pdb
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/obj/Debug/netcoreapp3.1/dotnet-dictionary.csprojAssemblyReference.cache
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/obj/Debug/netcoreapp3.1/dotnet-dictionary.AssemblyInfoInputs.cache
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/obj/Debug/netcoreapp3.1/dotnet-dictionary.AssemblyInfo.cs
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/obj/Debug/netcoreapp3.1/dotnet-dictionary.dll
+/Users/hunggia/Development/CodeGym/dotnet-dictionary/dotnet-dictionary/obj/Debug/netcoreapp3.1/dotnet-dictionary.pdb
